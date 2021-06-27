@@ -1,0 +1,5 @@
+- 👋 Ola, eu sou o Pedro Lucas Santana Duarte
+- 👀 Interesse no mundo da programação
+- 🌱 Atualmente estou aprendendo, cursando Analise e desenvolvimento de sistemas. Java como linguagem de desenvolvimento, noções de desenvolvimento ágio: Scrum, conhecimentos em modelagem de software, diagramas etc.
+- 💞️ Estou procurando colaborar em projetos, na parte de back end, como Junior
+- 📫 Linkedin: Pedro Lucas Santana Duarte. E-mail: pedrolucassantanaduarte@hotmail.com
